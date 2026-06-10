@@ -1,0 +1,27 @@
+internal/component/loki/echo/echo.go
+  s_6fc29bcf00c2f8::t_840f644bd6b398 6
+  h_19a015edaf416b 87
+  s_6fc29bcf00c2f8::t_658796135426ad 53
+  s_6fc29bcf00c2f8::t_24822ab49baf2f 47
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "cd5e1c7e073d207bc9185c8126cb2e59e2bbfaf2",
+  "prompts": {},
+  "humans": {
+    "h_19a015edaf416b": {
+      "author": "shalk(xiao kun) <xshalk@outlook.com>"
+    }
+  },
+  "sessions": {
+    "s_6fc29bcf00c2f8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b564a67a-d4a9-4ece-8ef6-3ce9a5403be3",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "shalk(xiao kun) <xshalk@outlook.com>"
+    }
+  }
+}
