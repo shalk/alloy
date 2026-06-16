@@ -1,0 +1,21 @@
+internal/util/otel_feature_gate_slim.go
+  s_ca4664f680f414::t_31da8f918cf844 1-8
+internal/util/otel_feature_gate_full.go
+  s_ca4664f680f414::t_e4ce2984ca65e1 1-19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "2d053b4ae8298208a32047018ff6fea7a513ee04",
+  "prompts": {},
+  "sessions": {
+    "s_ca4664f680f414": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "38e4b3a6-ae32-4891-b357-098b3c248644",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "shalk(xiao kun) <xshalk@outlook.com>"
+    }
+  }
+}
