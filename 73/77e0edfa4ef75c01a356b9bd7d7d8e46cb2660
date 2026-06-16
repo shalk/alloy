@@ -1,0 +1,26 @@
+internal/service/cluster/discovery/peer_discovery.go
+  s_ca4664f680f414::t_a2933d8da3c054 27-30
+internal/service/cluster/discovery/go_discovery_slim.go
+  s_ca4664f680f414::t_f20579da25fef1 1-12
+internal/service/cluster/discovery/go_discovery.go
+  s_ca4664f680f414::t_089ebad3e49269 1-2
+  s_ca4664f680f414::t_79919876dfc31e 19-22
+  s_ca4664f680f414::t_379bd0c755e286 27,29-36
+  s_ca4664f680f414::t_32d780d7a4ebcf 28
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "7377e0edfa4ef75c01a356b9bd7d7d8e46cb2660",
+  "prompts": {},
+  "sessions": {
+    "s_ca4664f680f414": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "38e4b3a6-ae32-4891-b357-098b3c248644",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "shalk(xiao kun) <xshalk@outlook.com>"
+    }
+  }
+}
