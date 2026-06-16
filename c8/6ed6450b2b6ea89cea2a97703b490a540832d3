@@ -1,0 +1,19 @@
+docs/superpowers/plans/2026-06-16-slim-distro-phase2-deep-trim.md
+  s_ca4664f680f414::t_2e59d60d164e12 1-422
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "c86ed6450b2b6ea89cea2a97703b490a540832d3",
+  "prompts": {},
+  "sessions": {
+    "s_ca4664f680f414": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "38e4b3a6-ae32-4891-b357-098b3c248644",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "shalk(xiao kun) <xshalk@outlook.com>"
+    }
+  }
+}
