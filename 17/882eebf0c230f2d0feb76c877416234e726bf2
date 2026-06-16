@@ -1,0 +1,23 @@
+internal/converter/convert_slim.go
+  s_ca4664f680f414::t_db90610a3dc848 11-15,20-25,32
+internal/converter/convert_heavy.go
+  s_ca4664f680f414::t_ca65c9f113b21a 8-9,25-30
+internal/converter/converter.go
+  s_ca4664f680f414::t_522575b1dce8cf 27-29,35,37
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "17882eebf0c230f2d0feb76c877416234e726bf2",
+  "prompts": {},
+  "sessions": {
+    "s_ca4664f680f414": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "38e4b3a6-ae32-4891-b357-098b3c248644",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "shalk(xiao kun) <xshalk@outlook.com>"
+    }
+  }
+}
