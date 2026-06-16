@@ -1,0 +1,19 @@
+docs/superpowers/plans/2026-06-16-slim-collector-distro.md
+  s_ca4664f680f414::t_007db51602c95b 1-336
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "6aa4f888f28a9c219f3767678abb83085a697ba1",
+  "prompts": {},
+  "sessions": {
+    "s_ca4664f680f414": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "38e4b3a6-ae32-4891-b357-098b3c248644",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "shalk(xiao kun) <xshalk@outlook.com>"
+    }
+  }
+}
