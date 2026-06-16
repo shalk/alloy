@@ -1,0 +1,21 @@
+docs/superpowers/specs/2026-06-16-slim-collector-distro-design.md
+  s_ca4664f680f414::t_bab1df6e35acda 53
+  s_ca4664f680f414::t_7ef9169476a6aa 13-26,28-29
+  s_ca4664f680f414::t_a7c3c4bf854fe3 27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "42917383c4c9762e2a699e96132d16b95623009d",
+  "prompts": {},
+  "sessions": {
+    "s_ca4664f680f414": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "38e4b3a6-ae32-4891-b357-098b3c248644",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "shalk(xiao kun) <xshalk@outlook.com>"
+    }
+  }
+}
