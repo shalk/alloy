@@ -1,0 +1,19 @@
+docs/superpowers/plans/2026-06-16-slim-distro-phase3-remove-clientgo.md
+  s_ca4664f680f414::t_ac34a14e4cb8a2 1-482
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "6d79633f4ad9aa0754aa88e716926da0d622310d",
+  "prompts": {},
+  "sessions": {
+    "s_ca4664f680f414": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "38e4b3a6-ae32-4891-b357-098b3c248644",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "shalk(xiao kun) <xshalk@outlook.com>"
+    }
+  }
+}
