@@ -1,0 +1,21 @@
+docs/slim-build-design.zh-CN.md
+  s_ca4664f680f414::t_9cc858af8026fc 1-153
+docs/slim-build-design.md
+  s_ca4664f680f414::t_d59af63adc0e2e 1-173
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "6851050bab8e9969cd3aa987bf86ac73e5d20a1a",
+  "prompts": {},
+  "sessions": {
+    "s_ca4664f680f414": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "38e4b3a6-ae32-4891-b357-098b3c248644",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "shalk(xiao kun) <xshalk@outlook.com>"
+    }
+  }
+}
