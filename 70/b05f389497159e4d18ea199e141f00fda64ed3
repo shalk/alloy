@@ -1,0 +1,27 @@
+collector/components.go
+  s_ca4664f680f414::t_ddb4f9c762e9eb 13,16,19-32,45-47,50,55-57,65-67,74-75,82-83
+collector/go.mod
+  s_ca4664f680f414::t_ddb4f9c762e9eb 26,566-568,570-578,580-581,583,585-586,588-589,619-650,820,824-825,845-846,851
+collector/go.sum
+  s_ca4664f680f414::t_787a87b2d4f477 2336-2337
+collector/builder-config.yaml
+  s_ca4664f680f414::t_92d85256d9537a 15,18,21
+collector/main.go
+  s_ca4664f680f414::t_ddb4f9c762e9eb 7,52-54,61
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "70b05f389497159e4d18ea199e141f00fda64ed3",
+  "prompts": {},
+  "sessions": {
+    "s_ca4664f680f414": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "38e4b3a6-ae32-4891-b357-098b3c248644",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "shalk(xiao kun) <xshalk@outlook.com>"
+    }
+  }
+}
